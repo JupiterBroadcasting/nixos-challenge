@@ -4,7 +4,7 @@
 + Setup at least one [Nix/NixOS system](https://nixos.org/manual/nixos/stable/)
 + Install htop
 + Join the [Nix Nerds Matrix channel](https://linuxunplugged.com/matrixinfo)
-+ Post a screenshot in the Nix Nerds Matrix channel (and here!)
++ Post a screenshot in the Nix Nerds Matrix channel (and/or [here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/1))!
 + Meaningless Bonus Points<sup>TM</sup> for a full desktop environment
 + Complete all the above before the end of April
 
