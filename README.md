@@ -16,6 +16,7 @@ At the end of the month, we'll do a review of how it went for folks, moments tha
 
 [Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/2) your ``configuration.nix`` for even more _Meaningless Bonus Points<sup>TM</sup>_ !
 
+[Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/3) your most helpful NixOS links & resources.
 
 #### Feel free to let us know:
 * 💯 how it went
