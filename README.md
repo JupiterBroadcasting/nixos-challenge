@@ -12,15 +12,15 @@
 At the end of the month, we'll do a review of how it went for folks, moments that stand out, and how Jupiter Broadcasting plans to use Nix going forward based on what we learned.
 
 #### Show & Tell:
-[Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/1) your NixOS screenshots and you get.. _Meaningless Bonus Points<sup>TM</sup>_!
+[Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/1) your NixOS screenshots and you get.. _Meaningless Bonus Points<sup>TM</sup>_ !
 
-[Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/2) your ``configuration.nix`` for even more _Meaningless Bonus Points<sup>TM</sup>_!
+[Share here](https://github.com/JupiterBroadcasting/nixos-challenge/discussions/2) your ``configuration.nix`` for even more _Meaningless Bonus Points<sup>TM</sup>_ !
 
 
 #### Feel free to let us know:
 * 💯 how it went
 * 🧑‍💻 which methods you explored: the NixOS "installer"? Ubuntu->NixOS? [other](https://nixos.org/manual/nixos/stable/index.html#sec-installing-from-other-distro)?
-* 🤖 cool new features you implemented/discovered/tripped over
+* 🤖 cool new features you implemented / discovered / tripped over
 * 🎯 additional goal suggestions
 * 🦸‍♀️your newfound superpowers, etc.  
 
