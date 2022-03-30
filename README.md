@@ -23,3 +23,5 @@ At the end of the month, we'll do a review of how it went for folks, moments tha
 * 🤖 cool new features you implemented/discovered/tripped over
 * 🎯 additional goal suggestions
 * 🦸‍♀️your newfound superpowers, etc.  
+
+# SHOW ME WHAT YOU GOT!!
